@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -16,7 +16,7 @@
 		3F100176247B5B8700289C2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F100174247B5B8700289C2E /* LaunchScreen.storyboard */; };
 		3F7EEDC22489C8960050C7D7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3F7EEDC12489C8950050C7D7 /* GoogleService-Info.plist */; };
 		3FEEE2A9247F5C5200E30F75 /* SwiftUI_LoginScreenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEEE2A8247F5C5200E30F75 /* SwiftUI_LoginScreenUITests.swift */; };
-		6850B667B33E381A99E9072D /* Pods_SwiftUI_LoginScreen.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B8BA5755DE540B88D3B227C /* Pods_SwiftUI_LoginScreen.framework */; };
+		FA206D41259099730039D800 /* Pods_SwiftUI_LoginScreen.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B8BA5755DE540B88D3B227C /* Pods_SwiftUI_LoginScreen.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,7 +55,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6850B667B33E381A99E9072D /* Pods_SwiftUI_LoginScreen.framework in Frameworks */,
+				FA206D41259099730039D800 /* Pods_SwiftUI_LoginScreen.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,7 +139,6 @@
 				A7DC6138759954D1E6AE3FA2 /* Pods-SwiftUI_LoginScreen-SwiftUI_LoginScreenUITests.debug.xcconfig */,
 				EA6DB4736EF1E5131BEE64D5 /* Pods-SwiftUI_LoginScreen-SwiftUI_LoginScreenUITests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
